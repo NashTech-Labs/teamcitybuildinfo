@@ -11,5 +11,5 @@ This template can be used to run a powershell script which creates an excel that
 * start the PS script:
 
 ```pwsh
-    .\build_data.ps1 -TeamcityToken ihd98d12y6316155#2297 -Server_Url https://teamcity.com
+    .\build_data.ps1 -TeamcityToken ihd98d12y6316155#2297 -Server_Url https://teamcity.com -startdate "20230101"
 ```
